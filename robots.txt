@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cldgsu8-max.github.io/contract-lens/sitemap.xml
